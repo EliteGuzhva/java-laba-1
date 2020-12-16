@@ -2,6 +2,7 @@
 
 ## Запуск
 ```bash
+mkdir build
 ant build
 ant run
 ```
